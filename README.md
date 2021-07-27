@@ -1,1 +1,2 @@
-# Susan-s-project24
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
